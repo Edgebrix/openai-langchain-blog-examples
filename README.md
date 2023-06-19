@@ -1,7 +1,6 @@
 # Edgebrix Demo with OpenAI Functions calling and Langchain
 
 
-
 ## Usage
 
 This demo uses pre-built Edgebrix functions. To create your own, sign in to your [Edgebrix console](https://edgebrix.com/home) and start building.
